@@ -1,7 +1,7 @@
 ![PicsArt_05-26-10 36 25](https://user-images.githubusercontent.com/70594016/170420481-a4f3f65c-7ce5-4cb7-82a5-c6dd26bb3b6a.jpg)
 
 
-# WA_CRASHER
+# WA_CRASHER 2
 WhatsApp Crash With one  Message
 
 ###### Crash Whatsapp by  sending Only One Text.
