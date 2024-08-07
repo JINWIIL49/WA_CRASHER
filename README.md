@@ -16,7 +16,7 @@ Note : Tool is Made of Educational Purposes only.
        (Join Us All https://bit.ly/3PV3S3r)
    
 ```
-https://github.com/JINWIIL49/WA_CRASHER/blob/Master/WA_CRASHER.py
+
 
 ```bash
 apt update && apt upgrade -y
